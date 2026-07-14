@@ -1,4 +1,4 @@
-# 🌟 I'm Rahil 🧑‍💻
+# 🌟 I'm Shahid Bashir 🧑‍💻
 
 <p align="center">
   <!-- Dynamic Typing Effect detailing your complete stack and security focus -->

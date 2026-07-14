@@ -1,8 +1,19 @@
 # 🌟 I'm Rahil 🧑‍💻
 
 <p align="center">
-  <!-- Dynamic Typing Effect with PERN, Security, ML, and IoT -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCC&width=550&lines=Code+echoes+when+words+fail.;PERN+Stack+Developer;Network+Security+Specialist;ML+%26+IoT+Developer" alt="Typing SVG" /></a>
+  <!-- Dynamic Typing Effect detailing your complete stack and security focus -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCC&width=550&lines=Code+echoes+when+words+fail.;PERN+Stack+Developer;Network+Security+Specialist;HackerOne+Bug+Hunter;Let's+Connect+on+LinkedIn" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <!-- Interactive Logos & Profile Links -->
+  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://hackerone.com/your-hackerone-username" target="_blank">
+    <img src="https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=red" alt="HackerOne" />
+  </a>
 </p>
 
 ---
@@ -22,19 +33,4 @@
 ### 📡 Smart Tracking System (Scanix) Breakdown
 > **RFID Tracking:** Battery-free ID cards. When scanned at a school gate or bus terminal, they automatically update student presence and instantly alert parents.
 >
-> **GPS Integration:** Real-time location tracking embedded directly into a standard student ID form factor, keeping school transport and student paths completely visible.## Hi there 👋
-
-<!--
-**rahildarc/rahildarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **GPS Integration:** Real-time location tracking embedded directly into a standard student ID form factor, keeping school transport and student paths completely visible.
